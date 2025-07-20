@@ -35,15 +35,8 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoj2k27&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj2k27&layout=compact&theme=tokyonight)
 
 ---
 
-> 🚀 "Every day is a new opportunity to grow — Let's build the future, one line of code at a time."
+> 🚀 "Let's build the future, one line of code at a time."
 
